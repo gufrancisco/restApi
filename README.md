@@ -3,9 +3,9 @@ This is a simple project to create a rest api.
 For more details acess https://medium.com/@sametgirgin/rest-api-crud-example-in-python-using-flask-and-mysql-8eea922d533e
 
 Dependences:
-python *this project is used python 3.8
-mysql 8.0.22
-flask 1.1.2
+* python *this project is used python 3.8
+* mysql 8.0.22
+* flask 1.1.2
 
 Whem run webService.py should be output like this:
  * Serving Flask app "appFlask" (lazy loading)
